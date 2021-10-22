@@ -141,6 +141,85 @@
 
 
 
+<br>
+
+
+<hr>
+
+<br>
+
+<i>This is Italic</i>
+
+<br>
+<br>
+<b>This is Bold</b>
+
+<br>
+<br>
+<u> This is Underline </u>
+
+<br>
+<br>
+<big>This is big</big>
+
+<br>
+<br>
+<small> This is Small</small>
+<br>
+<br>
+<br>
+
+
+<hr>
+<br>
+<p>co<sub>2</sub></p>
+
+<p>(a+b)<sup>2</sup>=a<sup>2</sup>+2ab+b<sup>2</sup></p>
+
+<p>(a-b)<sup>2</sup>=a<sup>2</sup>-2ab+b<sup>2</sup></p>
+<br>
+<hr>
+<br>
+
+<pre>
+
+1. (a + b)2 = a2 + 2ab + b2; a2 + b2 = (a + b)2 − 2ab
+2. (a − b)2 = a2 − 2ab + b2; a2 + b2 = (a − b)2 + 2ab
+3. (a + b + c)2 = a2 + b2 + c2 + 2(ab + bc + ca)
+4. (a + b)3 = a3 + b3 + 3ab(a + b); a3 + b3 = (a + b)3 − 3ab(a + b)
+5. (a − b)3 = a3 − b3 − 3ab(a − b); a3 − b3 = (a − b)3 + 3ab(a − b)
+6. a2 − b2 = (a + b)(a − b)
+7. a3 − b3 = (a − b)(a2 + ab + b2)
+8. a3 + b3 = (a + b)(a2 − ab + b2)
+9. an − bn = (a − b)(an−1 + an−2b + an−3b2 + ··· + bn−1)
+10. an = a.a.a . . . n times
+11. am.an = am+n
+13. (am)n = amn = (an)m
+14. (ab)n = an.bn
+15. a0 = 1 where a ∈ R, a 6= 0
+16. a−n = 1
+an , an = 1
+a−n
+17. ap/q = √q ap
+18. If am = an and a 6= ±1, a 6= 0 then m = n
+<pre>
+
+
+<!--html arrow-->
+
+<div>
+<h1>Add Images</h1>
+<p>Part of adding image</p>
+
+</div>
+
+
+<!--adding image-->
+
+
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEPsyXS6nTTirkCXNNi6alznDy-XeTLDXqm2agtY3dZXAJgLS2o4IvlqAV&s=10" width="1300"alt="">
+
 
 
 
