@@ -40,7 +40,7 @@ ENTER YOUR PASSWORD: <input type="text"/>
 <div>
 
 
-   <table style="width:100%;border:1px solid black;color:maroon">
+   <table style="width:100%;color:maroon">
      <caption style="color:purple"><b>INFORMATION</b></caption>
        <tr>
               <th>NAME</th>
