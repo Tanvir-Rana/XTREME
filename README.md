@@ -27,7 +27,7 @@ HTML WORK
              ENTER YOUR EMAIL   : <input type="email"/>
 <br><br>
              ENTER YOUR PASSWORD: <input type="text"/>
-                                                     <button type="submit">SUBMIT</button>
+             <br>                              <button type="submit">SUBMIT</button>
 	   </pre>
    </form>
 </div>
