@@ -26,6 +26,7 @@ ENTER YOUR EMAIL   : <input type="email"/>
 ENTER YOUR PASSWORD: <input type="text"/>
 <br>
 <button type="submit">SUBMIT</button>
+</pre>
 	     
 	   
    </form>
