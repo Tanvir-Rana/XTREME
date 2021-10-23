@@ -112,12 +112,12 @@ ENTER YOUR PASSWORD: <input type="text"/>
 <br>
 <br>
 	<img src="https://tanvir-rana.github.io/XTREME/Math42.jpg"/>
-	<img src="Math41.jpg"/>
-	<img src="Math40.jpg"/>
-	<img src="Math39.jpg"/>
-	<img src="Math38.jpg"/>
-	<img src="Math37.jpg"/>
-	<img src="Math36.jpg"/>
+	<img src="https://tanvir-rana.github.io/XTREME/Math41.jpg"/>
+	<img src="https://tanvir-rana.github.io/XTREME/Math40.jpg"/>
+	<img src="https://tanvir-rana.github.io/XTREME/Math39.jpg"/>
+	<img src="https://tanvir-rana.github.io/XTREME/Math38.jpg"/>
+	<img src="https://tanvir-rana.github.io/XTREME/Math37.jpg"/>
+	<img src="https://tanvir-rana.github.io/XTREME/Math36.jpg"/>
 	<img src="Math35.jpg"/>
 	<img src="Math34.jpg"/>
 	<img src="Math33.jpg"/>
