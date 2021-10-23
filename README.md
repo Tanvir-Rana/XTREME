@@ -87,9 +87,9 @@ ENTER YOUR PASSWORD: <input type="text"/>
                <th>STUDENT</th>               
 	       <th>KALIA PILOT MODEL HIGH SCHOOL</th>
                <th>TEN</th>
-               <th>SCIENCE</th>
-		 
+               <th>SCIENCE</th>		 
          </tr>
+	   
  </table>
 
 </div>
