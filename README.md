@@ -2,7 +2,7 @@
 
 
 <head>
-	<title>HTML BESIC</title>
+	<title><big>HTML BESIC</big></title>
 
 <div style="text-align:center; color:white">
 
