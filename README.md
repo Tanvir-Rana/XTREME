@@ -41,7 +41,7 @@ ENTER YOUR PASSWORD: <input type="text"/>
 
 
    <table style="width:100%;border:1px solid black;color:maroon">
-     <caption style="color:purple"><b>CHART</b></caption>
+     <caption style="color:purple"><b>INFORMATION</b></caption>
        <tr>
               <th>NAME</th>
               <th>CATEGORY</th>
