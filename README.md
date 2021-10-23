@@ -84,8 +84,11 @@ ENTER YOUR PASSWORD: <input type="text"/>
 
          <tr>
                <th>HASIB SHAIKH</th>
-               <th>STUDENT</th>
-               <th>KALIA PILOT MODEL HIGH SCHOOL</th>
+               <th>STUDENT</th>               
+	       <th>KALIA PILOT MODEL HIGH SCHOOL</th>
+               <th>TEN</th>
+               <th>SCIENCE</th>
+		 
          </tr>
  </table>
 
