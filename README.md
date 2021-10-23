@@ -1,6 +1,3 @@
-
-
-
 <head>
 	<title><big>HTML BESIC</big></title>
 
