@@ -107,18 +107,6 @@ ENTER YOUR PASSWORD: <input type="text"/>
 	
 	
 	
-	<img src="Math.jpg"/>
-	<img src="Math.jpg"/>
-	<img src="Math.jpg"/>
-	<img src="Math.jpg"/>
-	<img src="Math.jpg"/>
-	
-	<img src="Math.jpg"/>
-	
-	<img src="Math.jpg"/>
-	
-	
-	
 	
 <h1 style="color:purple"></h1>
 <br>
@@ -165,6 +153,6 @@ ENTER YOUR PASSWORD: <input type="text"/>
 	<img src="Math3.jpg"/>
 	<img src="Math2.jpg"/>
 	<img src="Math1.jpg"/>
-	<img src="Math.jpg"/>
+	
 	
 	
