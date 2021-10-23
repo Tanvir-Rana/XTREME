@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<html>
+
+
 
 <head>
 	<title>HTML BESIC</title>
@@ -70,6 +70,4 @@ HTML WORK
 </div>
 
 <img src="cad0acc2-c433-422b-9d5f-b37b1339d751.png"/>
-</body>
 
-</html>									
