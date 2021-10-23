@@ -60,7 +60,7 @@ HTML WORK
                 <th>KALIA PILOT MODEL HIGH SCHOOL</th>
          </tr>
 
-         <tr>
+         <tr style="text-align:right">
                <th>SAKIB NILOY</th>
                <th>STUDENT</th>
                <th>KALIA PILOT MODEL HIGH SCHOOL</th>
