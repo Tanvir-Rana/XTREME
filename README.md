@@ -46,31 +46,41 @@ ENTER YOUR PASSWORD: <input type="text"/>
               <th>NAME</th>
               <th>CATEGORY</th>
               <th>SCHOOL</th>
+	      <ty>CLASS</th>
+	      <th>SECTION</th>
        </tr>
 
         <tr>
                <th>TANVIR RANA</th>
                <th>STUDENT</th>
                <th>KALIA PILOT MODEL HIGH SCHOOL</th>
-         </tr>
+    	       <th>TEN</th>
+	       <th>SCIENCE</th>     
+	   </tr>
 
         <tr style="text-align:center">
                <th>MARUF MOLLA</th>
                <th>STUDENT</th>
                <th>KALIA PILOT MODEL HIGH SCHOOL</th>
+	       <th>TEN</th>
+	       <th>SCIENCE</th>	
          </tr>
 
          <tr>
                <th>SAKIB NILOY</th>
                <th>STUDENT</th>
                <th>KALIA PILOT MODEL HIGH SCHOOL</th>
-         </tr>
+      	       <th>TEN</th>
+	       <th>SCIENCE</th>       
+	   </tr>
 	   
          <tr>
                <th>SHAPNO GHOSH</th>
                <th>STUDENT</th>
                <th>KALIA PILOT MODEL HIGH SCHOOL</th>
-         </tr>
+               <th>TEN</th>
+	       <th>SCIENCE</th>  
+	   </tr>
 
          <tr>
                <th>HASIB SHAIKH</th>
