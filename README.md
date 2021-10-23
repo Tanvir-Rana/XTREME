@@ -24,8 +24,9 @@ ENTER YOUR NAME    : <input type="text"/>
 ENTER YOUR EMAIL   : <input type="email"/>
 <br><br>
 ENTER YOUR PASSWORD: <input type="text"/>
-</pre>
-             <br>                              <button type="submit">SUBMIT</button>
+<br>
+<button type="submit">SUBMIT</button>
+	     
 	   
    </form>
 </div>
