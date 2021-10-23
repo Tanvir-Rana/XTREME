@@ -24,6 +24,7 @@ HTML WORK
              ENTER YOUR NAME: <input type="text"/>
 <br><br>
              ENTER YOUR EMAIL: <input type="email"/>
+	   <br>
              ENTER YOUR PASSWORD: <input type="text"/>
         <button type="submit">SUBMIT</button>
    </form>
@@ -47,14 +48,14 @@ HTML WORK
                <th>SCHOOL</th>
        </tr>
 
-        <tr>
+        <tr style="text-align:left">
                <th>TANVIR RANA</th>
                <th>STUDENT</th>
                <th>KALIA PILOT MODEL HIGH SCHOOL</th>
          </tr>
 
-         <tr>
-                <th>MARUF OLLA</th>
+        <tr style="text-align:center">
+                <th>MARUF MOLLA</th>
                 <th>STUDENT</th>
                 <th>KALIA PILOT MODEL HIGH SCHOOL</th>
          </tr>
