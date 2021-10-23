@@ -71,6 +71,12 @@ ENTER YOUR PASSWORD: <input type="text"/>
                <th>STUDENT</th>
                <th>KALIA PILOT MODEL HIGH SCHOOL</th>
          </tr>
+
+         <tr>
+               <th>HASIB SHAIKH</th>
+               <th>STUDENT</th>
+               <th>KALIA PILOT MODEL HIGH SCHOOL</th>
+         </tr>
  </table>
 
 </div>
