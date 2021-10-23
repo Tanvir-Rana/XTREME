@@ -47,7 +47,7 @@ ENTER YOUR PASSWORD: <input type="text"/>
               <th>NAME</th>
               
               <th>SCHOOL</th>
-	       <th>SRENI</th>
+	       <th>CLASS</th>
 	      <th>SECTION</th>
        </tr>
 
