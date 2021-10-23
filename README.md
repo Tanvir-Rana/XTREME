@@ -43,7 +43,7 @@ ENTER YOUR PASSWORD: <input type="text"/>
      <caption style="color:purple"><b>INFORMATION</b></caption>
        <tr>
               <th>NAME</th>
-              <th>CATEGORY</th>
+              
               <th>SCHOOL</th>
 	       <th>SRENI</th>
 	      <th>SECTION</th>
@@ -51,7 +51,7 @@ ENTER YOUR PASSWORD: <input type="text"/>
 
         <tr>
                <th>TANVIR RANA</th>
-               <th>STUDENT</th>
+               
                <th>KALIA PILOT MODEL HIGH SCHOOL</th>
     	       <th>TEN</th>
 	       <th>SCIENCE</th>     
@@ -59,7 +59,7 @@ ENTER YOUR PASSWORD: <input type="text"/>
 
         <tr>
                <th>MARUF MOLLA</th>
-               <th>STUDENT</th>
+               
                <th>KALIA PILOT MODEL HIGH SCHOOL</th>
 	       <th>TEN</th>
 	       <th>SCIENCE</th>	
@@ -67,7 +67,7 @@ ENTER YOUR PASSWORD: <input type="text"/>
 
          <tr>
                <th>SAKIB NILOY</th>
-               <th>STUDENT</th>
+               
                <th>KALIA PILOT MODEL HIGH SCHOOL</th>
       	       <th>TEN</th>
 	       <th>SCIENCE</th>       
@@ -75,7 +75,7 @@ ENTER YOUR PASSWORD: <input type="text"/>
 	   
          <tr>
                <th>SHAPNO GHOSH</th>
-               <th>STUDENT</th>
+               
                <th>KALIA PILOT MODEL HIGH SCHOOL</th>
                <th>TEN</th>
 	       <th>SCIENCE</th>  
@@ -83,7 +83,7 @@ ENTER YOUR PASSWORD: <input type="text"/>
 
          <tr>
                <th>HASIB SHAIKH</th>
-               <th>STUDENT</th>               
+                       
 	       <th>KALIA PILOT MODEL HIGH SCHOOL</th>
                <th>TEN</th>
                <th>SCIENCE</th>		 
