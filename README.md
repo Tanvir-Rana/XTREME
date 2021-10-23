@@ -111,7 +111,7 @@ ENTER YOUR PASSWORD: <input type="text"/>
 <h1 style="color:purple"></h1>
 <br>
 <br>
-	<img src="Math42.jpg"/>
+	<img src="https://tanvir-rana.github.io/XTREME/Math42.jpg"/>
 	<img src="Math41.jpg"/>
 	<img src="Math40.jpg"/>
 	<img src="Math39.jpg"/>
