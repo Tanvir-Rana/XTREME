@@ -32,7 +32,6 @@ ENTER YOUR PASSWORD: <input type="text"/>
 
 <br>
 <br>
-<hr>
 <br>
 <br>
 
