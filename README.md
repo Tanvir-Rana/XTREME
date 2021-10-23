@@ -21,9 +21,9 @@ HTML WORK
 
 <div>
    <form>      
-             ENTER YOUR NAME: <input type="text"/>
+             ENTER YOUR NAME    : <input type="text"/>
 <br><br>
-             ENTER YOUR EMAIL: <input type="email"/>
+             ENTER YOUR EMAIL   : <input type="email"/>
 <br><br>
              ENTER YOUR PASSWORD: <input type="text"/>
         <button type="submit">SUBMIT</button>
