@@ -21,13 +21,13 @@ HTML WORK
 
 <div>
    <form>      
-            <pre>
-	     ENTER YOUR NAME    : <input type="text"/>
+<pre>
+ENTER YOUR NAME    : <input type="text"/>
 <br><br>
-             ENTER YOUR EMAIL   : <input type="email"/>
+ENTER YOUR EMAIL   : <input type="email"/>
 <br><br>
-             ENTER YOUR PASSWORD: <input type="text"/>
-	     </pre>
+ENTER YOUR PASSWORD: <input type="text"/>
+</pre>
              <br>                              <button type="submit">SUBMIT</button>
 	   
    </form>
