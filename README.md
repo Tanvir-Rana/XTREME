@@ -58,7 +58,7 @@ ENTER YOUR PASSWORD: <input type="text"/>
 	       <th>SCIENCE</th>     
 	   </tr>
 
-        <tr style="text-align:center">
+        <tr>
                <th>MARUF MOLLA</th>
                <th>STUDENT</th>
                <th>KALIA PILOT MODEL HIGH SCHOOL</th>
