@@ -39,9 +39,9 @@ width:100px;
 	<header>
 <nav class="navbar">  
 <ul>
-      <li><a href="#">ABOUT</a></li>
-      <li><a href="#">SERVICE</a></li>
-      <li><a href="#">CONTACT</a></li>
+     <li><a href="#">ABOUT</a></li>
+     <li><a href="#">SERVICE</a></li>
+     <li><a href="#">CONTACT</a></li>
 <div class="search">
 <input type="text" name="search" id="search" placeholder="Search This website">
 </div>
