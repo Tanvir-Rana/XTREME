@@ -88,6 +88,14 @@ ENTER YOUR PASSWORD: <input type="text"/>
                <th>SCIENCE</th>		 
          </tr>
 	   
+         <tr>
+               <th>SHEEHAB SHEAKH</th>
+               
+               <th>KALIA PILOT MODEL HIGH SCHOOL</th>
+    	       <th>TEN</th>
+	       <th>SCIENCE</th>     
+	   </tr>
+	   
  </table>
 
 </div>
