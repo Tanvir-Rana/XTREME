@@ -45,7 +45,6 @@ width:100px;
 	<header>
 <nav class="navbar">  
 <ul>
-    <li><a href="#">HOME</a></li>
     <li><a href="#">ABOUT</a></li>
     <li><a href="#">SERVICE</a></li>
     <li><a href="#">CONTACT</a></li>
