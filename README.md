@@ -1,7 +1,7 @@
 <div style="text-align:center; color:white">
 
 <h1 style="color:purple">
-HTML WORK
+WELCOME TO TANVIR'S WEBSITE
 </h1>
 
 <ul>
@@ -104,7 +104,7 @@ ENTER YOUR PASSWORD: <input type="text"/>
 	
 	
 	
-<h1 style="color:purple;text-align:center">MATH CH 16</h1>
+<h1 style="color:purple;text-align:center">GENERAL MATH CHAPTER 16</h1>
 
 
 	<img src="https://images.unsplash.com/photo-1635014962632-b4f65f916a58?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1035&q=80"/>
