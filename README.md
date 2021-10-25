@@ -38,12 +38,11 @@ border-radius:10px;
 padding:1px 16px;
 width:200px;
 }
+ </style>
+	
+	
 
-      </style>
-
-</head>
-<header>
-
+	<header>
 <nav class="navbar">  
 <ul>
     <li><a href="#">HOME</a></li>
