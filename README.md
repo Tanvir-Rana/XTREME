@@ -35,7 +35,6 @@ width:100px;
 
       </style>
 
-</head>
 <body>
          <header>
                  <nav class="navbar">  
