@@ -9,11 +9,11 @@ overflow: auto;
 .navbar li{
 float:left;
 list-style:none;
-margin:17px 7px;
+margin: 15px 15px;
 }
 
 .navbar li a{
-padding: 2px 2px;
+padding: 3px 3px;
 text-decoration: none;
 color: white;
 }
@@ -21,19 +21,20 @@ color: white;
 color:black
 }
 .search{
-float:right;
+float: right;
 color:white;
-padding:10px 20px;
+padding:10px 50px;
 }
 
 .navbar input{
 border:2px solid black;
-border-radius:10px;
-padding:1px 16px;
-width:100px;
+border-radius:20px;
+padding:5px 20px;
+width:90px;
 }
- </style>
-	
+
+      </style>
+
 	
 
 	<header>
