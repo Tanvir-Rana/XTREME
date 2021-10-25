@@ -29,14 +29,14 @@ color:black
 .search{
 float: right;
 color:white;
-padding:18px 30px;
+padding:10px 20px;
 }
 
 .navbar input{
 border:2px solid black;
 border-radius:10px;
 padding:1px 16px;
-width:50px;
+width:100px;
 }
  </style>
 	
