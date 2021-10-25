@@ -15,7 +15,7 @@ overflow: auto;
 .navbar li{
 float:left;
 list-style:none;
-margin: 20px 13px;
+margin: 18px 7px;
 }
 
 .navbar li a{
