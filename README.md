@@ -15,11 +15,11 @@ overflow: auto;
 .navbar li{
 float:left;
 list-style:none;
-margin: 18px 7px;
+margin:17px 7px;
 }
 
 .navbar li a{
-padding: 3px 3px;
+padding: 2px 2px;
 text-decoration: none;
 color: white;
 }
