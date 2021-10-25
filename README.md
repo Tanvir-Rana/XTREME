@@ -36,7 +36,7 @@ padding:5px 20px;
 
 	
 
-	<header>
+	
 <nav class="navbar">  
 <ul>
      <li><a href="#">ABOUT</a></li>
@@ -48,7 +48,7 @@ padding:5px 20px;
 </ul>
                  
 </nav>    
-         </header> 
+        
 	 
 <div style="text-align:center; color:white">
 
