@@ -1,6 +1,6 @@
 <div style="text-align:center; color:white">
 
-<h1 style="color:purple">
+<h1 style="color:gray">
 WELCOME TO TANVIR'S WEBSITE
 </h1>
 
