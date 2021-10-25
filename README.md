@@ -48,8 +48,8 @@ width:100px;
 </ul>
                  
 </nav>    
-         
-</header> 
+         </header> 
+	 
 <div style="text-align:center; color:white">
 
 <h1 style="color:purple">
@@ -92,6 +92,78 @@ ENTER YOUR PASSWORD: <input type="text"/>
 
    <table style="width:100%;color:maroon">
      <caption style="color:purple"><b>INFORMATION</b></caption>
+       <tr> 
+
+<ul>
+
+      <li><a href="https://www.youtube.com">YOUTUBE</a></li>
+
+      <li><a href="https://www.facebook.com">FACEBOOK</a></li>
+
+      <li><a href="https://www.facebook.com/tanvir.rana.18488">MY FACEBOOK PROFILE</a></li>
+
+</ul>
+
+
+
+</div>
+
+
+
+
+
+<div>
+
+   <form>      
+
+<pre>
+
+ENTER YOUR NAME    : <input type="text"/>
+
+<br><br>
+
+ENTER YOUR EMAIL   : <input type="email"/>
+
+<br><br>
+
+ENTER YOUR PASSWORD: <input type="text"/>
+
+<br>
+
+                                  <button type="submit">SUBMIT</button>
+
+</pre>
+
+             
+
+           
+
+   </form>
+
+</div>
+
+
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+
+
+<div>
+
+
+
+
+
+   <table style="width:100%;color:maroon">
+
+     <caption style="color:purple"><b>INFORMATION</b></caption>
+
        <tr>
               <th>NAME</th>
               
