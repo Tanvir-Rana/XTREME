@@ -1,6 +1,59 @@
 <head>
 	<title><big>HTML BESIC</big></title>
+	     <style>
+.navbar{
+background-color:gray;
+border-radius: 50px;
+}
+.navbar ul{
+overflow: auto;
+}
+.navbar li{
+float:left;
+list-style:none;
+margin: 20px 13px;
+}
 
+.navbar li a{
+padding: 3px 3px;
+text-decoration: none;
+color: white;
+}
+.navbar li a:hover{
+color:black
+}
+.search{
+float: right;
+color:white;
+padding:18px 30px;
+}
+
+.navbar input{
+border:2px solid black;
+border-radius:10px;
+padding:1px 16px;
+width:200px;
+}
+
+      </style>
+
+
+
+</head>
+
+         <header>
+                 <nav class="navbar">  
+<ul>
+    <li><a href="#">HOME</a></li>
+    <li><a href="#">ABOUT</a></li>
+    <li><a href="#">SERVICE</a></li>
+    <li><a href="#">CONTACT</a></li>
+<div class="search">
+<input type="text" name="search" id="search" placeholder="Search This website">
+</div>
+</ul>
+                 </nav>    
+         </header> 
 <div style="text-align:center; color:white">
 
 <h1 style="color:purple">
