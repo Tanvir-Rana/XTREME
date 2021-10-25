@@ -30,7 +30,6 @@ padding:10px 50px;
 border:2px solid black;
 border-radius:20px;
 padding:5px 20px;
-width:90px;
 }
 
       </style>
