@@ -1,3 +1,4 @@
+<body>
 <div style="text-align:center; color:white">
 
 <h1 style="color:gray">
@@ -160,6 +161,5 @@ ENTER YOUR PASSWORD: <input type="text"/>
 	<img src="https://tanvir-rana.github.io/XTREME/Math2.jpg"/>
 	<img src="https://tanvir-rana.github.io/XTREME/Math1.jpg"/>
 
-	
-	
+</body>
 	
