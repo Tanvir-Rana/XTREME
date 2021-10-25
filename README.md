@@ -102,9 +102,9 @@ ENTER YOUR PASSWORD: <input type="text"/>
 
 <img width="100%" src="https://images.unsplash.com/photo-1515981771990-1f8180b007ff?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=627&q=80"/>
 <!--< src="cad0acc2-c433-422b-9d5f-b37b1339d751.png"/>-->
-
 	
-	
+<br>
+		
 	
 	
 <h1 style="color:purple;text-align:center">GENERAL MATH CH 16</h1>
