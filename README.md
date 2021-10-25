@@ -1,4 +1,4 @@
- <head>
+<head>
 <body>
            <meta charset="UTF-8">
            <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
@@ -42,9 +42,9 @@ width:200px;
       </style>
 
 </head>
+<header>
 
-         <header>
-                 <nav class="navbar">  
+<nav class="navbar">  
 <ul>
     <li><a href="#">HOME</a></li>
     <li><a href="#">ABOUT</a></li>
@@ -54,8 +54,10 @@ width:200px;
 <input type="text" name="search" id="search" placeholder="Search This website">
 </div>
 </ul>
-                 </nav>    
-         </header> 
+                 
+</nav>    
+         
+</header> 
 <div style="text-align:center; color:white">
 
 <h1 style="color:purple">
