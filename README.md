@@ -21,7 +21,7 @@ color: white;
 color:black
 }
 .search{
-float: right;
+float:right;
 color:white;
 padding:10px 20px;
 }
@@ -39,7 +39,7 @@ width:100px;
 	<header>
 <nav class="navbar">  
 <ul>
-    <li><a href="#">ABOUT</a></li>
+ <li><a href="#">ABOUT</a></li>
     <li><a href="#">SERVICE</a></li>
     <li><a href="#">CONTACT</a></li>
 <div class="search">
