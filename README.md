@@ -1,6 +1,3 @@
-<head>
-	<title><big>HTML BESIC</big></title>
-
 <div style="text-align:center; color:white">
 
 <h1 style="color:purple">
