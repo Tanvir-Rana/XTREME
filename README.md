@@ -1,4 +1,4 @@
-<!DOCTYPE html> 
+
 
 <html lang="en"> 
 
@@ -208,7 +208,7 @@ WELCOME TO TANVIR's WEBSITE
 
 <form> 
 
-<pre style="color:white;width:100%">
+<pre style="width:100%">
 
 ENTER YOUR NAME    : <input type="text"/>
 
